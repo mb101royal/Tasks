@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "fibonacci_and_swap_2_values/1.0.0": {
+        "runtime": {
+          "fibonacci_and_swap_2_values.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fibonacci_and_swap_2_values/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\bin\Debug\net6.0\fibonacci_and_swap_2_values.exe
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\bin\Debug\net6.0\fibonacci_and_swap_2_values.deps.json
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\bin\Debug\net6.0\fibonacci_and_swap_2_values.runtimeconfig.json
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\bin\Debug\net6.0\fibonacci_and_swap_2_values.dll
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\bin\Debug\net6.0\fibonacci_and_swap_2_values.pdb
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\obj\Debug\net6.0\fibonacci_and_swap_2_values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\obj\Debug\net6.0\fibonacci_and_swap_2_values.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\obj\Debug\net6.0\fibonacci_and_swap_2_values.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\obj\Debug\net6.0\fibonacci_and_swap_2_values.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\obj\Debug\net6.0\fibonacci_and_swap_2_values.dll
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\obj\Debug\net6.0\refint\fibonacci_and_swap_2_values.dll
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\obj\Debug\net6.0\fibonacci_and_swap_2_values.pdb
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\obj\Debug\net6.0\fibonacci_and_swap_2_values.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_2_tasks\fibonacci_and_swap_2_values\fibonacci_and_swap_2_values\obj\Debug\net6.0\ref\fibonacci_and_swap_2_values.dll

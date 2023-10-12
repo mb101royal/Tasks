@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci_and_swap_2_values", "fibonacci_and_swap_2_values\fibonacci_and_swap_2_values.csproj", "{D3C6628E-4D6C-47F1-8715-C451D6D87FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C6628E-4D6C-47F1-8715-C451D6D87FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C6628E-4D6C-47F1-8715-C451D6D87FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C6628E-4D6C-47F1-8715-C451D6D87FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C6628E-4D6C-47F1-8715-C451D6D87FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A5A320C-66C7-405C-B4C4-C212740746B5}
+	EndGlobalSection
+EndGlobal
