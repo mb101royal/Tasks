@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\week_3_tasks\monday_task\bin\Release\net6.0\monday_task.exe
+C:\Users\royal\source\repos\week_3_tasks\monday_task\bin\Release\net6.0\monday_task.deps.json
+C:\Users\royal\source\repos\week_3_tasks\monday_task\bin\Release\net6.0\monday_task.runtimeconfig.json
+C:\Users\royal\source\repos\week_3_tasks\monday_task\bin\Release\net6.0\monday_task.dll
+C:\Users\royal\source\repos\week_3_tasks\monday_task\bin\Release\net6.0\monday_task.pdb
+C:\Users\royal\source\repos\week_3_tasks\monday_task\obj\Release\net6.0\monday_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_3_tasks\monday_task\obj\Release\net6.0\monday_task.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_3_tasks\monday_task\obj\Release\net6.0\monday_task.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_3_tasks\monday_task\obj\Release\net6.0\monday_task.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_3_tasks\monday_task\obj\Release\net6.0\monday_task.dll
+C:\Users\royal\source\repos\week_3_tasks\monday_task\obj\Release\net6.0\refint\monday_task.dll
+C:\Users\royal\source\repos\week_3_tasks\monday_task\obj\Release\net6.0\monday_task.pdb
+C:\Users\royal\source\repos\week_3_tasks\monday_task\obj\Release\net6.0\monday_task.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_3_tasks\monday_task\obj\Release\net6.0\ref\monday_task.dll

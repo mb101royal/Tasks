@@ -1,0 +1,5 @@
+C:\Users\royal\source\repos\week_3_tasks\monday_task\bin\Release\net6.0\publish\monday_task.exe
+C:\Users\royal\source\repos\week_3_tasks\monday_task\bin\Release\net6.0\publish\monday_task.dll
+C:\Users\royal\source\repos\week_3_tasks\monday_task\bin\Release\net6.0\publish\monday_task.deps.json
+C:\Users\royal\source\repos\week_3_tasks\monday_task\bin\Release\net6.0\publish\monday_task.runtimeconfig.json
+C:\Users\royal\source\repos\week_3_tasks\monday_task\bin\Release\net6.0\publish\monday_task.pdb
