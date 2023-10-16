@@ -5,21 +5,28 @@
 		static void Main(string[] args)
 		{
 			#region task 1
-			/*int[] nums = { 1, 1, 2, 8, 3, 4, 5, 5, 6 };
-			int size = nums.Length;
-			int[] count = new int[size];
+			int[] array = { 96, 14, 214, 114, 114, 1, 1, 1, 1, 24, 42 };
 
-			for (int i = 0; i < size; i++)
+			for (int i = 0; i < array.Length; i++)
 			{
-				for (int j = 0; j < size; j++) if (nums[j] == nums[i]) count[i]++;
+				if (array[i] == -1) continue;
+				
+				int count = 1;
+
+				for (int j = i + 1; j < array.Length; j++)
+				{
+					if (array[i] == array[j])
+					{
+						count++;
+						array[j] = -1;
+					}
+				}
+				Console.WriteLine(array[i] + " -> " + count + " defe");
 			}
-			for (int i = 0; i < size; i++)
-			{
-				if (count[i] > 0) Console.WriteLine(i + " -> " + count[i] + " dene");
-			}*/
+			Console.ReadKey();
 			#endregion
 			#region task 2
-			Console.Write("Array-in olcusunu daxil edin: ");
+			/*Console.Write("Array-in olcusunu daxil edin: ");
 			int size = Convert.ToInt32(Console.ReadLine());
 			int[] userNumbers = new int[size];
 			Console.Write("Array-a eded elave edilsin? (yes/y/Yes/Y or whatever) ");
@@ -43,7 +50,7 @@
 				for (int i = 0; i < size; i++) Console.Write(userNumbers[i] + " ");
 			}
 			else Console.WriteLine(-1);
-			Console.ReadKey();
+			Console.ReadKey();*/
 			#endregion
 		}
 	}
