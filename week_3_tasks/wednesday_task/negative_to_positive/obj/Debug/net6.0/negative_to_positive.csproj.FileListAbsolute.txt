@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\bin\Debug\net6.0\negative_to_positive.exe
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\bin\Debug\net6.0\negative_to_positive.deps.json
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\bin\Debug\net6.0\negative_to_positive.runtimeconfig.json
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\bin\Debug\net6.0\negative_to_positive.dll
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\bin\Debug\net6.0\negative_to_positive.pdb
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\obj\Debug\net6.0\negative_to_positive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\obj\Debug\net6.0\negative_to_positive.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\obj\Debug\net6.0\negative_to_positive.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\obj\Debug\net6.0\negative_to_positive.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\obj\Debug\net6.0\negative_to_positive.dll
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\obj\Debug\net6.0\refint\negative_to_positive.dll
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\obj\Debug\net6.0\negative_to_positive.pdb
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\obj\Debug\net6.0\negative_to_positive.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_3_tasks\wednesday_task\negative_to_positive\obj\Debug\net6.0\ref\negative_to_positive.dll

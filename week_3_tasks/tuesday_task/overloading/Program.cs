@@ -23,7 +23,7 @@
 			Console.Write("Netice: " + result);
 			#endregion*/
 
-			/*#region task 2: b
+			#region task 2: b
 			Console.Write("Eded daxil edin: ");
 			int userNum = Convert.ToInt32(Console.ReadLine());
 			Console.Write("Uzeri nece olacaq?: ");
@@ -32,7 +32,7 @@
 			int result = pow(userNum, power); // pow(userNum, empty) -> exception :(
 
 			Console.Write("Netice: " + result);
-			#endregion*/
+			#endregion
 
 			/*#region task 2: c
 			Console.Write("Ad daxil edin: ");
