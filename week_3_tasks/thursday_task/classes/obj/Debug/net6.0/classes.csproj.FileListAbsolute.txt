@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\bin\Debug\net6.0\classes.exe
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\bin\Debug\net6.0\classes.deps.json
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\bin\Debug\net6.0\classes.runtimeconfig.json
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\bin\Debug\net6.0\classes.dll
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\bin\Debug\net6.0\classes.pdb
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\obj\Debug\net6.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\obj\Debug\net6.0\classes.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\obj\Debug\net6.0\classes.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\obj\Debug\net6.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\obj\Debug\net6.0\classes.dll
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\obj\Debug\net6.0\refint\classes.dll
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\obj\Debug\net6.0\classes.pdb
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\obj\Debug\net6.0\classes.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_3_tasks\thursday_task\classes\obj\Debug\net6.0\ref\classes.dll
