@@ -12,3 +12,17 @@ C:\Users\Birinci novbe\source\repos\Company_and_Employee\Company_and_Employee\ob
 C:\Users\Birinci novbe\source\repos\Company_and_Employee\Company_and_Employee\obj\Debug\net6.0\Company_and_Employee.pdb
 C:\Users\Birinci novbe\source\repos\Company_and_Employee\Company_and_Employee\obj\Debug\net6.0\Company_and_Employee.genruntimeconfig.cache
 C:\Users\Birinci novbe\source\repos\Company_and_Employee\Company_and_Employee\obj\Debug\net6.0\ref\Company_and_Employee.dll
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\bin\Debug\net6.0\Company_and_Employee.exe
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\bin\Debug\net6.0\Company_and_Employee.deps.json
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\bin\Debug\net6.0\Company_and_Employee.runtimeconfig.json
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\bin\Debug\net6.0\Company_and_Employee.dll
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\bin\Debug\net6.0\Company_and_Employee.pdb
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\obj\Debug\net6.0\Company_and_Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\obj\Debug\net6.0\Company_and_Employee.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\obj\Debug\net6.0\Company_and_Employee.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\obj\Debug\net6.0\Company_and_Employee.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\obj\Debug\net6.0\Company_and_Employee.dll
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\obj\Debug\net6.0\refint\Company_and_Employee.dll
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\obj\Debug\net6.0\Company_and_Employee.pdb
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\obj\Debug\net6.0\Company_and_Employee.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_4_tasks\company_user__console_app__class_task\Company_and_Employee\obj\Debug\net6.0\ref\Company_and_Employee.dll

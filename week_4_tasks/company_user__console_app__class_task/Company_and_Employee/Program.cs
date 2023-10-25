@@ -6,8 +6,7 @@ namespace Company_and_Employee
     {
         static void Main(string[] args)
         {
-            Company company = new Company("Wirket");
-            Employee employee = new Employee("celil", "celilov");
+            Company company = new Company("Shirket");
 
             char answer;
 
@@ -18,24 +17,27 @@ namespace Company_and_Employee
                 switch (answer)
                 {
                     case '1':
-                        
-                        break;
+                        company.CreateNewCompany();
+						break;
                     case '2':
-                        company.AddUser(new Employee("celil1", "celilov1"));
+                        Console.WriteLine("Add Name and then Surname(press Enter for each):");
+                        company.AddUser(new Employee(Console.ReadLine(), Console.ReadLine()));
                         break;
                     case '3':
-                        Console.WriteLine("Which user?");
+                        Console.WriteLine("Which user you want to remove(Enter username)?");
                         company.RemoveUser(Console.ReadLine());
                         break;
                     case '4':
-                        /*company.UpdateUser("asda");*/
+						Console.WriteLine("Which user info you want to modify(Enter username)?");
+						company.UpdateUser(Console.ReadLine());
                         break;
                     case '5':
                         company.GetAllUsers();
                         break;
                     case '6':
-
-                        break;
+                        Console.WriteLine("Username of the user you want to look for:");
+						company.GetUser(Console.ReadLine());
+						break;
                     default:
                         Console.WriteLine("Error.");
                         break;
@@ -45,12 +47,12 @@ namespace Company_and_Employee
 
         static void Info()
         {
-            Console.WriteLine("1 Create a company");
-            Console.WriteLine("2 Create an employee");
-            Console.WriteLine("3 Delete employee");
-            Console.WriteLine("4 Update employee");
-            Console.WriteLine("5 See all employees");
-            Console.WriteLine("6 See employee");
+            Console.WriteLine("1. Create a new company.");
+            Console.WriteLine("2. Create an employee.");
+            Console.WriteLine("3. Delete employee.");
+            Console.WriteLine("4. Update employee.");
+            Console.WriteLine("5. See all employees.");
+            Console.WriteLine("6. See employee.");
         }
     }
 }
