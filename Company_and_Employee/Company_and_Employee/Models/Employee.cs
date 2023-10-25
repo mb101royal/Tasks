@@ -3,17 +3,33 @@
 public class Employee
 {
     private string _name;
+    private string _surname;
     private byte _age;
     private string _username;
-    private string _surname;
 
     public string Name
     {
         get => _name;
         set
         {
-            value = value.Trim();
-            if (!string.IsNullOrWhiteSpace(value)) _name = value.Substring(0, 1).ToUpper() + value.Substring(1).ToLower();
+            
+            if (!string.IsNullOrWhiteSpace(value))
+            {
+                value = value.Trim();
+                _name = value.Substring(0, 1).ToUpper() + value.Substring(1).ToLower();
+            }
+        }
+    }
+    public string Surname
+    {
+        get => _surname;
+        set
+        {
+            if (!string.IsNullOrWhiteSpace(value))
+            {
+                value = value.Trim();
+               _surname = value.Substring(0, 1).ToUpper() + value.Substring(1).ToLower();
+            }
         }
     }
 
@@ -30,32 +46,14 @@ public class Employee
     public string Username
     {
         get => _username;
-        set { }
+        set { _username = value; }
     }
 
-    public string Surname
+    public Employee(string name, string surname)
     {
-        get => _surname;
-        set
-        {
-            value = value.Trim();
-            if (!string.IsNullOrWhiteSpace(value)) _surname = value.Substring(0, 1).ToUpper() + value.Substring(1).ToLower();
-        }
-    }
-
-    public Employee(byte age, string name, string surname)
-    {
-        Age = age;
         Name = name;
         Surname = surname;
 
-        Username = $"{name}_{surname}";
-    }
-
-    public void GetInfo()
-    {
-        string result = $"{Name} {Surname} {Age}";
-
-        Console.WriteLine(result);
+        Username = $"{_name}_{_surname}";
     }
 }
