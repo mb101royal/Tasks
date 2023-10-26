@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\source\repos\after_school\after_school\bin\Debug\net6.0\after_school.exe
+C:\Users\Birinci novbe\source\repos\after_school\after_school\bin\Debug\net6.0\after_school.deps.json
+C:\Users\Birinci novbe\source\repos\after_school\after_school\bin\Debug\net6.0\after_school.runtimeconfig.json
+C:\Users\Birinci novbe\source\repos\after_school\after_school\bin\Debug\net6.0\after_school.dll
+C:\Users\Birinci novbe\source\repos\after_school\after_school\bin\Debug\net6.0\after_school.pdb
+C:\Users\Birinci novbe\source\repos\after_school\after_school\obj\Debug\net6.0\after_school.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\source\repos\after_school\after_school\obj\Debug\net6.0\after_school.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\source\repos\after_school\after_school\obj\Debug\net6.0\after_school.AssemblyInfo.cs
+C:\Users\Birinci novbe\source\repos\after_school\after_school\obj\Debug\net6.0\after_school.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\source\repos\after_school\after_school\obj\Debug\net6.0\after_school.dll
+C:\Users\Birinci novbe\source\repos\after_school\after_school\obj\Debug\net6.0\refint\after_school.dll
+C:\Users\Birinci novbe\source\repos\after_school\after_school\obj\Debug\net6.0\after_school.pdb
+C:\Users\Birinci novbe\source\repos\after_school\after_school\obj\Debug\net6.0\after_school.genruntimeconfig.cache
+C:\Users\Birinci novbe\source\repos\after_school\after_school\obj\Debug\net6.0\ref\after_school.dll
