@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\bin\Debug\net6.0\animal_abstract.exe
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\bin\Debug\net6.0\animal_abstract.deps.json
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\bin\Debug\net6.0\animal_abstract.runtimeconfig.json
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\bin\Debug\net6.0\animal_abstract.dll
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\bin\Debug\net6.0\animal_abstract.pdb
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\obj\Debug\net6.0\animal_abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\obj\Debug\net6.0\animal_abstract.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\obj\Debug\net6.0\animal_abstract.AssemblyInfo.cs
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\obj\Debug\net6.0\animal_abstract.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\obj\Debug\net6.0\animal_abstract.dll
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\obj\Debug\net6.0\refint\animal_abstract.dll
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\obj\Debug\net6.0\animal_abstract.pdb
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\obj\Debug\net6.0\animal_abstract.genruntimeconfig.cache
+C:\Users\Birinci novbe\source\repos\animal_abstract\animal_abstract\obj\Debug\net6.0\ref\animal_abstract.dll
