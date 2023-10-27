@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\bin\Debug\net6.0\abstrakt.exe
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\bin\Debug\net6.0\abstrakt.deps.json
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\bin\Debug\net6.0\abstrakt.runtimeconfig.json
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\bin\Debug\net6.0\abstrakt.dll
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\bin\Debug\net6.0\abstrakt.pdb
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\obj\Debug\net6.0\abstrakt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\obj\Debug\net6.0\abstrakt.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\obj\Debug\net6.0\abstrakt.AssemblyInfo.cs
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\obj\Debug\net6.0\abstrakt.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\obj\Debug\net6.0\abstrakt.dll
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\obj\Debug\net6.0\refint\abstrakt.dll
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\obj\Debug\net6.0\abstrakt.pdb
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\obj\Debug\net6.0\abstrakt.genruntimeconfig.cache
+C:\Users\Birinci novbe\source\repos\abstrakt\abstrakt\obj\Debug\net6.0\ref\abstrakt.dll
