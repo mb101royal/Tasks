@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\bin\Debug\net6.0\vehicle.exe
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\bin\Debug\net6.0\vehicle.deps.json
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\bin\Debug\net6.0\vehicle.runtimeconfig.json
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\bin\Debug\net6.0\vehicle.dll
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\bin\Debug\net6.0\vehicle.pdb
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\obj\Debug\net6.0\vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\obj\Debug\net6.0\vehicle.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\obj\Debug\net6.0\vehicle.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\obj\Debug\net6.0\vehicle.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\obj\Debug\net6.0\vehicle.dll
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\obj\Debug\net6.0\refint\vehicle.dll
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\obj\Debug\net6.0\vehicle.pdb
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\obj\Debug\net6.0\vehicle.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_4_tasks\vehicle\vehicle\obj\Debug\net6.0\ref\vehicle.dll
