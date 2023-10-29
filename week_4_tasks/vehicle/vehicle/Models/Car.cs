@@ -30,7 +30,7 @@ public class Car : Vehicle, IEngine, IWheel, ITransmission
 			return 0;
 		}
 	}
-	public bool IsNegative(int number)
+	/*public bool IsNegative(int number)
 	{
 		bool result = true;
 		if (number >= 0)
@@ -39,5 +39,5 @@ public class Car : Vehicle, IEngine, IWheel, ITransmission
 			return result;
 		}
 		return result;
-	}
+	}*/
 }
