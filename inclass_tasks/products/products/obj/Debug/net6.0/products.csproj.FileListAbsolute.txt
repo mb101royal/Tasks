@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\source\repos\products\products\bin\Debug\net6.0\products.exe
+C:\Users\Birinci novbe\source\repos\products\products\bin\Debug\net6.0\products.deps.json
+C:\Users\Birinci novbe\source\repos\products\products\bin\Debug\net6.0\products.runtimeconfig.json
+C:\Users\Birinci novbe\source\repos\products\products\bin\Debug\net6.0\products.dll
+C:\Users\Birinci novbe\source\repos\products\products\bin\Debug\net6.0\products.pdb
+C:\Users\Birinci novbe\source\repos\products\products\obj\Debug\net6.0\products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\source\repos\products\products\obj\Debug\net6.0\products.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\source\repos\products\products\obj\Debug\net6.0\products.AssemblyInfo.cs
+C:\Users\Birinci novbe\source\repos\products\products\obj\Debug\net6.0\products.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\source\repos\products\products\obj\Debug\net6.0\products.dll
+C:\Users\Birinci novbe\source\repos\products\products\obj\Debug\net6.0\refint\products.dll
+C:\Users\Birinci novbe\source\repos\products\products\obj\Debug\net6.0\products.pdb
+C:\Users\Birinci novbe\source\repos\products\products\obj\Debug\net6.0\products.genruntimeconfig.cache
+C:\Users\Birinci novbe\source\repos\products\products\obj\Debug\net6.0\ref\products.dll
