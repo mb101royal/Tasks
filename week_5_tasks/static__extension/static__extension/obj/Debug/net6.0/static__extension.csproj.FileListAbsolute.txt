@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\obj\Debug\net6.0\static__extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\obj\Debug\net6.0\static__extension.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\obj\Debug\net6.0\static__extension.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\obj\Debug\net6.0\static__extension.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\bin\Debug\net6.0\static__extension.exe
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\bin\Debug\net6.0\static__extension.deps.json
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\bin\Debug\net6.0\static__extension.runtimeconfig.json
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\bin\Debug\net6.0\static__extension.dll
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\bin\Debug\net6.0\static__extension.pdb
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\obj\Debug\net6.0\static__extension.dll
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\obj\Debug\net6.0\refint\static__extension.dll
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\obj\Debug\net6.0\static__extension.pdb
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\obj\Debug\net6.0\static__extension.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_5_tasks\static__extension\static__extension\obj\Debug\net6.0\ref\static__extension.dll
