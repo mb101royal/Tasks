@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\obj\Debug\net6.0\custom_contains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\obj\Debug\net6.0\custom_contains.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\obj\Debug\net6.0\custom_contains.AssemblyInfo.cs
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\obj\Debug\net6.0\custom_contains.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\bin\Debug\net6.0\custom_contains.exe
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\bin\Debug\net6.0\custom_contains.deps.json
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\bin\Debug\net6.0\custom_contains.runtimeconfig.json
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\bin\Debug\net6.0\custom_contains.dll
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\bin\Debug\net6.0\custom_contains.pdb
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\obj\Debug\net6.0\custom_contains.dll
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\obj\Debug\net6.0\refint\custom_contains.dll
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\obj\Debug\net6.0\custom_contains.pdb
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\obj\Debug\net6.0\custom_contains.genruntimeconfig.cache
+C:\Users\Birinci novbe\source\repos\custom_contains\custom_contains\obj\Debug\net6.0\ref\custom_contains.dll
