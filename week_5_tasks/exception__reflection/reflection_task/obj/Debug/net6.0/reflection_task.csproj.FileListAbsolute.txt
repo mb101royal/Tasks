@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\bin\Debug\net6.0\reflection_task.exe
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\bin\Debug\net6.0\reflection_task.deps.json
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\bin\Debug\net6.0\reflection_task.runtimeconfig.json
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\bin\Debug\net6.0\reflection_task.dll
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\bin\Debug\net6.0\reflection_task.pdb
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\obj\Debug\net6.0\reflection_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\obj\Debug\net6.0\reflection_task.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\obj\Debug\net6.0\reflection_task.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\obj\Debug\net6.0\reflection_task.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\obj\Debug\net6.0\reflection_task.dll
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\obj\Debug\net6.0\refint\reflection_task.dll
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\obj\Debug\net6.0\reflection_task.pdb
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\obj\Debug\net6.0\reflection_task.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\reflection_task\obj\Debug\net6.0\ref\reflection_task.dll

@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\bin\Debug\net6.0\exception_task.exe
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\bin\Debug\net6.0\exception_task.deps.json
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\bin\Debug\net6.0\exception_task.runtimeconfig.json
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\bin\Debug\net6.0\exception_task.dll
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\bin\Debug\net6.0\exception_task.pdb
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\obj\Debug\net6.0\exception_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\obj\Debug\net6.0\exception_task.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\obj\Debug\net6.0\exception_task.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\obj\Debug\net6.0\exception_task.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\obj\Debug\net6.0\exception_task.dll
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\obj\Debug\net6.0\refint\exception_task.dll
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\obj\Debug\net6.0\exception_task.pdb
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\obj\Debug\net6.0\exception_task.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_5_tasks\exception__reflection\exception_task\obj\Debug\net6.0\ref\exception_task.dll
