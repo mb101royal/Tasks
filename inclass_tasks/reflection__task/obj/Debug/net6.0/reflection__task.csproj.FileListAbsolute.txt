@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\bin\Debug\net6.0\reflection__task.exe
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\bin\Debug\net6.0\reflection__task.deps.json
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\bin\Debug\net6.0\reflection__task.runtimeconfig.json
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\bin\Debug\net6.0\reflection__task.dll
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\bin\Debug\net6.0\reflection__task.pdb
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\obj\Debug\net6.0\reflection__task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\obj\Debug\net6.0\reflection__task.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\obj\Debug\net6.0\reflection__task.AssemblyInfo.cs
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\obj\Debug\net6.0\reflection__task.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\obj\Debug\net6.0\reflection__task.dll
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\obj\Debug\net6.0\refint\reflection__task.dll
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\obj\Debug\net6.0\reflection__task.pdb
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\obj\Debug\net6.0\reflection__task.genruntimeconfig.cache
+C:\Users\Birinci novbe\source\repos\pushable\reflection__task\obj\Debug\net6.0\ref\reflection__task.dll
