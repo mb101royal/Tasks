@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\bin\Debug\net6.0\operator_overloading.exe
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\bin\Debug\net6.0\operator_overloading.deps.json
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\bin\Debug\net6.0\operator_overloading.runtimeconfig.json
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\bin\Debug\net6.0\operator_overloading.dll
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\bin\Debug\net6.0\operator_overloading.pdb
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\obj\Debug\net6.0\operator_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\obj\Debug\net6.0\operator_overloading.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\obj\Debug\net6.0\operator_overloading.AssemblyInfo.cs
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\obj\Debug\net6.0\operator_overloading.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\obj\Debug\net6.0\operator_overloading.dll
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\obj\Debug\net6.0\refint\operator_overloading.dll
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\obj\Debug\net6.0\operator_overloading.pdb
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\obj\Debug\net6.0\operator_overloading.genruntimeconfig.cache
+C:\Users\Birinci novbe\source\repos\pushable\operator_overloading\obj\Debug\net6.0\ref\operator_overloading.dll

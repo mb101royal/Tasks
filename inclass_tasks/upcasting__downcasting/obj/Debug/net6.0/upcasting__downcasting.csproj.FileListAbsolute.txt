@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\bin\Debug\net6.0\upcasting__downcasting.exe
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\bin\Debug\net6.0\upcasting__downcasting.deps.json
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\bin\Debug\net6.0\upcasting__downcasting.runtimeconfig.json
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\bin\Debug\net6.0\upcasting__downcasting.dll
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\bin\Debug\net6.0\upcasting__downcasting.pdb
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\obj\Debug\net6.0\upcasting__downcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\obj\Debug\net6.0\upcasting__downcasting.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\obj\Debug\net6.0\upcasting__downcasting.AssemblyInfo.cs
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\obj\Debug\net6.0\upcasting__downcasting.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\obj\Debug\net6.0\upcasting__downcasting.dll
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\obj\Debug\net6.0\refint\upcasting__downcasting.dll
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\obj\Debug\net6.0\upcasting__downcasting.pdb
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\obj\Debug\net6.0\upcasting__downcasting.genruntimeconfig.cache
+C:\Users\Birinci novbe\source\repos\pushable\upcasting__downcasting\obj\Debug\net6.0\ref\upcasting__downcasting.dll
