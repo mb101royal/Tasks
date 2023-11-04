@@ -1,9 +1,8 @@
 ﻿using november4_task.Exceptions;
-using System.Reflection.Emit;
 
 namespace november4_task.Models
 {
-    internal class Company
+	internal class Company
     {
         public string Name { get; set; }
         public List<Employee> Employees;
@@ -67,16 +66,25 @@ namespace november4_task.Models
                                 employee.Age = Convert.ToByte(Console.ReadLine());
                                 break;
                             case 4:
-                                Console.WriteLine("Enter new Gender");
-                                employee.Gender = (Genders)Convert.ToInt32(Console.ReadLine());
-                                break;
+                                retry:
+                                Console.WriteLine("Enter new Gender(1 - male, 2 - female, 3 - other).");
+								int newGen = Convert.ToInt32(Console.ReadLine());
+
+								if (newGen < 4 && newGen > 0)
+									employee.Gender = (Genders)newGen;
+								else
+								{
+									Console.WriteLine("Gender is incorrect.");
+									goto retry;
+								}
+								break;
                             case 5:
                                 Console.WriteLine("Enter new Position");
                                 employee.Position = Console.ReadLine();
                                 break;
                             case 6:
                                 Console.WriteLine("Enter new Salary");
-                                employee.Salary = Convert.ToDecimal(Convert.ToByte(Console.ReadLine()));
+                                employee.Salary = Convert.ToDecimal(Console.ReadLine());
                                 break;
                         }
                     }
