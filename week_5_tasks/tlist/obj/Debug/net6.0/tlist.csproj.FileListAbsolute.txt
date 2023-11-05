@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\week_5_tasks\tlist\bin\Debug\net6.0\tlist.exe
+C:\Users\royal\source\repos\week_5_tasks\tlist\bin\Debug\net6.0\tlist.deps.json
+C:\Users\royal\source\repos\week_5_tasks\tlist\bin\Debug\net6.0\tlist.runtimeconfig.json
+C:\Users\royal\source\repos\week_5_tasks\tlist\bin\Debug\net6.0\tlist.dll
+C:\Users\royal\source\repos\week_5_tasks\tlist\bin\Debug\net6.0\tlist.pdb
+C:\Users\royal\source\repos\week_5_tasks\tlist\obj\Debug\net6.0\tlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_5_tasks\tlist\obj\Debug\net6.0\tlist.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_5_tasks\tlist\obj\Debug\net6.0\tlist.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_5_tasks\tlist\obj\Debug\net6.0\tlist.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_5_tasks\tlist\obj\Debug\net6.0\tlist.dll
+C:\Users\royal\source\repos\week_5_tasks\tlist\obj\Debug\net6.0\refint\tlist.dll
+C:\Users\royal\source\repos\week_5_tasks\tlist\obj\Debug\net6.0\tlist.pdb
+C:\Users\royal\source\repos\week_5_tasks\tlist\obj\Debug\net6.0\tlist.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_5_tasks\tlist\obj\Debug\net6.0\ref\tlist.dll
