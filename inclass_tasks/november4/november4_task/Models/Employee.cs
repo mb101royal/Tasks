@@ -3,8 +3,8 @@
     internal class Employee : Person
     {
         public decimal Salary { get; set; }
-        public string Position { get; set; }
         public Genders Gender { get; set; }
+        public Positions Position { get; set; }
 
         public override string FullName()
         {
@@ -16,5 +16,12 @@
         Male = 1,
         Female,
         Other
+    }
+    public enum Positions
+    {
+        FrontEnd = 1,
+        BackEnd,
+        FullStack,
+        DevOps
     }
 }

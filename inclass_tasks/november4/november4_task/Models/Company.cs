@@ -1,8 +1,9 @@
 ﻿using november4_task.Exceptions;
 
+delegate void ShowAll();
 namespace november4_task.Models
 {
-	internal class Company
+    internal class Company
     {
         public string Name { get; set; }
         public List<Employee> Employees;
@@ -20,14 +21,11 @@ namespace november4_task.Models
         // Get employee by id
         public Employee GetEmployeeById(int id)
         {
-            for (int i = 0; i < Employees.Count; i++)
-            {
-                if (Employees[i].Id == id)
-                {
-                    return Employees[i];
-                }
-            }
-            throw new EmployeeNotFound("Bele employee yoxdur."); ;
+            /*if (id > 0 && id <= Employees.Count) return Employees.Find(emp => emp.Id == id);
+            if (id > 0 && id <= Employees.Count) return Employees.SingleOrDefault(emp => emp.Id == id);*/
+            if (id > 0 && id <= Employees.Count) return Employees.FirstOrDefault(emp => emp.Id == id);
+
+            throw new EmployeeNotFound("Bele id-e sahib employee yoxdur.");
         }
         // Update employee
         public void UpdateEmployee(Employee employee)
@@ -79,8 +77,17 @@ namespace november4_task.Models
 								}
 								break;
                             case 5:
-                                Console.WriteLine("Enter new Position");
-                                employee.Position = Console.ReadLine();
+                                retry2:
+                                Console.WriteLine("Enter new Position(1 - Front, 2 - Back, 3 - Full, 4 - DevOps).");
+                                int newPos = Convert.ToInt32(Console.ReadLine());
+
+                                if (newPos <= 4 && newPos > 0)
+                                    employee.Position = (Positions)newPos;
+                                else
+                                {
+                                    Console.WriteLine("Position is incorrect.");
+                                    goto retry2;
+                                }
                                 break;
                             case 6:
                                 Console.WriteLine("Enter new Salary");
@@ -98,20 +105,21 @@ namespace november4_task.Models
             int id;
             if (Employees.Count != 0)
             {
-                Console.WriteLine($"Id daxil edin(1 -> {Employees.Count}): ");
+                Console.WriteLine($"Id daxil edin: ");
+                foreach (var emp in Employees)
+                    Console.Write(emp.Id + " ");
+                Console.WriteLine();
                 id = Convert.ToInt32(Console.ReadLine());
 
-                if (id <= Employees.Count)
+                if (id <= employee.Id && id > 0)
                 {
-                    for (int i = 0; i < Employees.Count; i++)
-                    {
-                        if (Employees[i].Id == id)
-                        {
-                            Employees.Remove(employee);
-                            Console.WriteLine("Successfully removed.");
-                            break;
-                        } 
-                    }
+                    Employees.Remove(Employees.Find(emp => emp.Id == id));
+                    Console.WriteLine("Removed successully.");
+                    /*Employees.Remove(Employees.SingleOrDefault(emp => emp.Id == id));
+                    Console.WriteLine("Removed successully.");
+                    Employees.Remove(Employees.FirstOrDefault(emp => emp.Id == id));
+                    Console.WriteLine("Removed successully.");*/
+
                 }
                 else throw new EmployeeNotFound("Bele employee yoxdur.");
             }
@@ -120,14 +128,17 @@ namespace november4_task.Models
         // Get all employees
         public void GetAllEmployee()
         {
+            ShowAll showAll = new ShowAll(ForDelegate);
+            showAll();
+        }
+        public void ForDelegate()
+        {
             if (Employees.Count != 0)
             {
                 foreach (var emp in Employees)
-                {
-                    Console.WriteLine(emp.FullName());
-                }
+                Console.WriteLine(emp.FullName());
             }
-            else { Console.WriteLine("List boshdur."); }
+            else Console.WriteLine("List boshdur.");
         }
     }
 }
