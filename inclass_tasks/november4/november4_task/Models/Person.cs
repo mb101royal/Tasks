@@ -14,6 +14,6 @@
             _id++;
         }
 
-        public virtual string FullName() { return null; }
+        public virtual string FullName() { return default; }
     }
 }

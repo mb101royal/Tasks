@@ -1,6 +1,5 @@
 ﻿using november4_task.Exceptions;
 using november4_task.Models;
-using System.Numerics;
 
 namespace november4_task
 {
@@ -11,7 +10,7 @@ namespace november4_task
             Company company = new Company();
 
             Employee employee = new();
-
+         
             byte choice;
 
             do
@@ -35,18 +34,27 @@ namespace november4_task
 
                     retry:
                         Console.WriteLine("Gender(1 - male, 2 - female, 3 - other):");
-                        int answer = Convert.ToInt32(Console.ReadLine()) ;
+                        int gender = Convert.ToInt32(Console.ReadLine()) ;
 
-                        if (answer < 4 && answer > 0)
-                            employee.Gender = (Genders)answer;
+                        if (gender < 4 && gender > 0)
+                            employee.Gender = (Genders)gender;
                         else
                         {
                             Console.WriteLine("Gender is incorrect.");
                             goto retry;
                         }
 
-                        Console.WriteLine("Position:");
-                        employee.Position = Console.ReadLine();
+                    retry2:
+                        Console.WriteLine("Position(1 - Front, 2 - Back, 3 - Full, 4 - DevOps):");
+                        int position = Convert.ToInt32(Console.ReadLine());
+
+                        if (position <= 4 && position > 0)
+                            employee.Position = (Positions)position;
+                        else
+                        {
+                            Console.WriteLine("Position is incorrect.");
+                            goto retry2;
+                        }
 
                         Console.WriteLine("Salary:");
                         employee.Salary = Convert.ToDecimal(Console.ReadLine());
@@ -98,8 +106,8 @@ namespace november4_task
         static void Info()
         {
             Console.WriteLine("1 - Add employee.");
-            Console.WriteLine("2 - Get employee by id.");
-            Console.WriteLine("3 - Update employee.");
+            Console.WriteLine("2 - Get employee details by id.");
+            Console.WriteLine("3 - Update employee details.");
             Console.WriteLine("4 - Remove employee.");
             Console.WriteLine("5 - Show all employees.");
             Console.WriteLine("0 - Exit.\n");
