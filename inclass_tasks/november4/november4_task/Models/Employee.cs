@@ -5,6 +5,7 @@
         public decimal Salary { get; set; }
         public Genders Gender { get; set; }
         public Positions Position { get; set; }
+        public DateTime CreatedAt { get; set; }
 
         public override string FullName()
         {

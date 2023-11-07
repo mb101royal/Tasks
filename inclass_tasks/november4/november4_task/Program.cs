@@ -7,10 +7,15 @@ namespace november4_task
     {
         static void Main(string[] args)
         {
-            Company company = new Company();
+            /*Company company = new()
+            {
+                Name = "corp"
+            };
+
+            EmployeeDatabase.Companies.Add(company);*/
 
             Employee employee = new();
-         
+
             byte choice;
 
             do
@@ -22,9 +27,15 @@ namespace november4_task
                 {
                     case 1:
                         employee = new Employee();
-
                         Console.WriteLine("Name:");
+                        nameretry:
                         employee.Name = Console.ReadLine();
+
+                        if (employee.Name.Length < 3 || employee.Name.Length > 30)
+                        {
+                            Console.WriteLine("The name is incorrect.");
+                            goto nameretry;
+                        }
 
                         Console.WriteLine("Surname:");
                         employee.Surname = Console.ReadLine();
@@ -58,8 +69,8 @@ namespace november4_task
 
                         Console.WriteLine("Salary:");
                         employee.Salary = Convert.ToDecimal(Console.ReadLine());
-
-                        company.AddEmployee(employee);
+                           
+                        EmployeeService.AddEmployee(employee);
                         break;
                     case 2:
                         try
@@ -67,7 +78,7 @@ namespace november4_task
                             Console.WriteLine($"Which id?");
                             int id = Convert.ToInt32(Console.ReadLine());
 
-                            Console.WriteLine(company.GetEmployeeById(id).FullName());
+                            Console.WriteLine(EmployeeService.GetEmployeeById(id).FullName());
                         }
                         catch (EmployeeNotFound)
                         {
@@ -77,7 +88,7 @@ namespace november4_task
                     case 3:
                         try
                         {
-                            company.UpdateEmployee(employee);
+                            EmployeeService.UpdateEmployee(employee);
                         }
                         catch (EmployeeNotFound)
                         {
@@ -87,7 +98,7 @@ namespace november4_task
                     case 4:
                         try
                         {
-                            company.RemoveEmployee(employee);
+                            EmployeeService.RemoveEmployee(employee);
                         }
                         catch (EmployeeNotFound)
                         {
@@ -95,7 +106,7 @@ namespace november4_task
                         }
                         break;
                     case 5:
-                        company.GetAllEmployee();
+                        EmployeeService.GetAllEmployee();
                         break;
                 }
 
