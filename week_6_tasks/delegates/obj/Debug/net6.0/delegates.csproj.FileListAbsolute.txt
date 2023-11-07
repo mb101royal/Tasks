@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\week_6_tasks\delegates\obj\Debug\net6.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_6_tasks\delegates\obj\Debug\net6.0\delegates.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_6_tasks\delegates\obj\Debug\net6.0\delegates.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_6_tasks\delegates\obj\Debug\net6.0\delegates.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_6_tasks\delegates\bin\Debug\net6.0\delegates.exe
+C:\Users\royal\source\repos\week_6_tasks\delegates\bin\Debug\net6.0\delegates.deps.json
+C:\Users\royal\source\repos\week_6_tasks\delegates\bin\Debug\net6.0\delegates.runtimeconfig.json
+C:\Users\royal\source\repos\week_6_tasks\delegates\bin\Debug\net6.0\delegates.dll
+C:\Users\royal\source\repos\week_6_tasks\delegates\bin\Debug\net6.0\delegates.pdb
+C:\Users\royal\source\repos\week_6_tasks\delegates\obj\Debug\net6.0\delegates.dll
+C:\Users\royal\source\repos\week_6_tasks\delegates\obj\Debug\net6.0\refint\delegates.dll
+C:\Users\royal\source\repos\week_6_tasks\delegates\obj\Debug\net6.0\delegates.pdb
+C:\Users\royal\source\repos\week_6_tasks\delegates\obj\Debug\net6.0\delegates.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_6_tasks\delegates\obj\Debug\net6.0\ref\delegates.dll
