@@ -1,0 +1,14 @@
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\bin\Debug\net6.0\november_14_task.exe
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\bin\Debug\net6.0\november_14_task.deps.json
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\bin\Debug\net6.0\november_14_task.runtimeconfig.json
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\bin\Debug\net6.0\november_14_task.dll
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\bin\Debug\net6.0\november_14_task.pdb
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\obj\Debug\net6.0\november_14_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\obj\Debug\net6.0\november_14_task.AssemblyInfoInputs.cache
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\obj\Debug\net6.0\november_14_task.AssemblyInfo.cs
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\obj\Debug\net6.0\november_14_task.csproj.CoreCompileInputs.cache
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\obj\Debug\net6.0\november_14_task.dll
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\obj\Debug\net6.0\refint\november_14_task.dll
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\obj\Debug\net6.0\november_14_task.pdb
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\obj\Debug\net6.0\november_14_task.genruntimeconfig.cache
+C:\Users\Birinci novbe\source\repos\pushable\november_14_task\obj\Debug\net6.0\ref\november_14_task.dll
