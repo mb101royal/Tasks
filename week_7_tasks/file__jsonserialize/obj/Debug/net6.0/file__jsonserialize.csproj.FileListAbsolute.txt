@@ -1,0 +1,17 @@
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\bin\Debug\net6.0\file__jsonserialize.exe
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\bin\Debug\net6.0\file__jsonserialize.deps.json
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\bin\Debug\net6.0\file__jsonserialize.runtimeconfig.json
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\bin\Debug\net6.0\file__jsonserialize.dll
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\bin\Debug\net6.0\file__jsonserialize.pdb
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\file__jsonserialize.csproj.AssemblyReference.cache
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\file__jsonserialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\file__jsonserialize.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\file__jsonserialize.AssemblyInfo.cs
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\file__jsonserialize.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\file__jsonserialize.csproj.CopyComplete
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\file__jsonserialize.dll
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\refint\file__jsonserialize.dll
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\file__jsonserialize.pdb
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\file__jsonserialize.genruntimeconfig.cache
+C:\Users\royal\source\repos\week_7_tasks\file__jsonserialize\obj\Debug\net6.0\ref\file__jsonserialize.dll

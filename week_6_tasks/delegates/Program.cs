@@ -45,7 +45,7 @@ namespace delegates
 			ExamFilterDelegate lastWeekFilter = exam => (DateTime.Now - exam.StartDate).Days <= 7;
 			ExamFilterDelegate durationFilter = exam => exam.DurationHours > 1;
 
-			DisplayFilteredExams("Exams with Points > 50:", Exams, pointsFilter);
+			DisplayFilteredExams("\nExams with Points > 50:", Exams, pointsFilter);
 			DisplayFilteredExams("Exams in Last 1 week:", Exams, lastWeekFilter);
 			DisplayFilteredExams("Exams took longer than 1 hour:", Exams, durationFilter);
 		}
